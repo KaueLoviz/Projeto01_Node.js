@@ -2,7 +2,7 @@
 Kauê Loviz de Oliveira - RGM: 30650615
 
 
-Como já visto acima, esse projeto01 da matéria de Técnicas de Programação.
+Como já visto acima, esse é o projeto01 da matéria de Técnicas de Programação.
 
 *Comandos:*
 ```bash
