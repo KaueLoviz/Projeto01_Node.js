@@ -32,4 +32,4 @@ npm run valida
 
  
 ## Tech Stack📝
-**Back-end:** Node.
+**Back-end:** JavaScript.
