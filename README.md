@@ -27,7 +27,7 @@ npm run valida
 
 "valida": "node cli.js ./arquivos/texto.md valida"
 ```
-## Author🙋‍♂️
+## Autor🙋‍♂️
 - [@Kauê](https://github.com/KaueLoviz)
 
  
