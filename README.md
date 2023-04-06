@@ -4,7 +4,7 @@ Kauê Loviz de Oliveira - RGM: 30650615
 
 Como já visto acima, esse é o Projeto01 da matéria de Técnicas de Programação.
 
-*OBSERVAÇÃO*: O Projeto02 conclui em sala de aula, na data 29/03, estou inserindo como incremento o Projeto02 para ficar salvo.
+*OBSERVAÇÃO*: O Projeto02 conclui em sala de aula, na data 29/03, estou inserindo como *incremento* o Projeto02 para ficar salvo.
 
 *Comandos*: Referente ao Projeto01 - [TAG] [LINK]
 ```bash
