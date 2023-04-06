@@ -1,10 +1,12 @@
-# Projeto01_Node.js 🎲
+# Projeto01 e Projeto02_Node.js 🎲
 Kauê Loviz de Oliveira - RGM: 30650615
 
 
-Como já visto acima, esse é o projeto01 da matéria de Técnicas de Programação.
+Como já visto acima, esse é o Projeto01 da matéria de Técnicas de Programação.
 
-*Comandos:*
+*OBSERVAÇÃO*: O Projeto02 conclui em sala de aula, na data 29/03, estou inserindo como incremento o Projeto02 para ficar salvo.
+
+*Comandos*: Referente ao Projeto01 - [TAG] [LINK]
 ```bash
 Ler o arquivo tipo markdown:
 
@@ -27,6 +29,20 @@ npm run valida
 
 "valida": "node cli.js ./arquivos/texto.md valida"
 ```
+
+__________________________________________________
+
+*Comandos*: Referente ao Projeto02 - Rotas
+```bash
+Rodar o servidor na porta 3000 localhost:
+
+# scripts
+node helloHTTP.js
+
+Navegue através das rotas:
+/rota1, /rota2, /rota3, /rota4, /rota5, /rota6
+```
+
 ## Autor🙋‍♂️
 - [@Kauê](https://github.com/KaueLoviz)
 
