@@ -1,12 +1,13 @@
 # Projeto01 e Projeto02_Node.js 🎲
 Kauê Loviz de Oliveira - RGM: 30650615
 
+❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
 
 Como já visto acima, esse é o Projeto01 da matéria de Técnicas de Programação.
 
 *OBSERVAÇÃO*: O Projeto02 conclui em sala de aula, na data 29/03, estou inserindo como *incremento* o Projeto02 para ficar salvo.
 
-*Comandos*: Referente ao Projeto01 - [TAG] [LINK]
+*Comandos via Terminal VS ou CMD*: Referente ao Projeto01 - [TAG] [LINK]
 ```bash
 Ler o arquivo tipo markdown:
 
@@ -32,7 +33,7 @@ npm run valida
 
 __________________________________________________
 
-*Comandos*: Referente ao Projeto02 - Rotas
+*Comandos via Terminal VS ou CMD*: Referente ao Projeto02 - Rotas
 ```bash
 Rodar o servidor na porta 3000 localhost:
 
