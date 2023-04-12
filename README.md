@@ -1,4 +1,4 @@
-# Projeto01 e Projeto02_Node.js 🎲
+# Projeto01 e ProjetoRotas_Node.js 🎲
 Kauê Loviz de Oliveira - RGM: 30650615
 
 ❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
@@ -33,7 +33,7 @@ npm run valida
 
 __________________________________________________
 
-*Comandos via Terminal VS ou CMD*: Referente ao Projeto02 - Rotas
+*Comandos via Terminal VS ou CMD*: Referente ao ProjetoRotas - Rotas
 ```bash
 Rodar o servidor na porta 3000 localhost:
 
