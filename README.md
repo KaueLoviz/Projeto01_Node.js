@@ -1,4 +1,4 @@
-# Projeto01 e ProjetoRotas_Node.js 🎲
+# Projeto01_Node.js e ProjetoRotas 🎲
 Kauê Loviz de Oliveira - RGM: 30650615
 
 ❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
