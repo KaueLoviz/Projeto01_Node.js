@@ -3,13 +3,13 @@ Kauê Loviz de Oliveira - RGM: 30650615
 
 ⚠️ O arquivo do Projeto esta zipado em .rar ⚠️
 
-❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
+❗ TEM QUE TER Node.js e Git INSTALADO NA MÁQUINA ❗
 
 Como já visto acima, esse é o Projeto01 da matéria de Técnicas de Programação.
 
 *OBSERVAÇÃO*: O ProjetoRotas conclui em sala de aula, na data 29/03, estou inserindo como *incremento* o ProjetoRotas para ficar salvo.
 
-*Comandos via Terminal VS ou CMD*: Referente ao Projeto01 - [TAG] [LINK]
+*Comandos via Terminal VS bash ou CMD*: Referente ao Projeto01 - [TAG] [LINK]
 ```bash
 Ler o arquivo tipo markdown:
 
