@@ -1,6 +1,8 @@
 # Projeto01_Node.js e ProjetoRotas 🎲
 Kauê Loviz de Oliveira - RGM: 30650615
 
+⚠️ O arquivo do Projeto esta zipado em .rar ⚠️
+
 ❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
 
 Como já visto acima, esse é o Projeto01 da matéria de Técnicas de Programação.
